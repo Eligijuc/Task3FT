@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Task2FT</string>
+    <string name="symbols_selection">Elements</string>
+    <string name="word_selection">Words</string>
+    <string-array name="options">
+        <item>Elements</item>
+        <item>Words</item>
+    </string-array>
+</resources>
